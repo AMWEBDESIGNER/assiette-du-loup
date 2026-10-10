@@ -14,6 +14,10 @@ Vitrine statique pour **L’Assiette du Loup**, restaurant à La Joue du Loup, c
 - GitHub : https://github.com/AMWEBDESIGNER/assiette-du-loup
 - Cloudflare Pages : https://assiette-du-loup.pages.dev
 
+## Parcours livré
+
+La page d’accueil est complétée par `menu.html` et `infos.html` : envies de carte, contexte saisonnier, adresse, itinéraire et appel direct. Le site reste une maquette indépendante ; carte, logo, photos, horaires et coordonnées doivent être validés par l’établissement.
+
 ## Personnalisation
 
 Remplacer la signature, les photos, coordonnées et périodes avec les éléments validés par l’établissement. Site sans build : `index.html`, `style.css`, `app.js`.
