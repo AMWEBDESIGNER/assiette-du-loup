@@ -23,3 +23,7 @@ La page d’accueil est complétée par `menu.html` et `infos.html` : envies de 
 Remplacer la signature, les photos, coordonnées et périodes avec les éléments validés par l’établissement. Site sans build : `index.html`, `style.css`, `app.js`.
 
 Cette publication est une maquette indépendante, sans affiliation avec l’établissement.
+
+## Motion design et provenance du code
+
+Animations réalisées en CSS vanilla, avec respect de `prefers-reduced-motion`, et une révélation progressive inspirée du pattern public [Scroll animation: IntersectionObserver and CSS](https://codepen.io/oscar-jite/pen/qBzwOVq). La logique reste locale, légère et adaptée à l’identité de chaque établissement ; aucune dépendance payante ni contenu généré n’est requis.
